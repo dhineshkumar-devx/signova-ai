@@ -1,0 +1,191 @@
+{
+  "sign_name": "WATER",
+  "type": "static_pose",
+  "version": "1.0",
+  "category": "Essentials",
+  "hand_type": "right",
+  "description": "W-hand shape touching chin/lips",
+  "sample_count": 150,
+  "normalized_landmarks": [
+    {
+      "index": 0,
+      "name": "wrist",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "std": 0.0
+    },
+    {
+      "index": 1,
+      "name": "thumb_cmc",
+      "x": -0.684812,
+      "y": 0.134484,
+      "z": 0.4055,
+      "std": 0.083107
+    },
+    {
+      "index": 2,
+      "name": "thumb_mcp",
+      "x": -0.513228,
+      "y": -0.400991,
+      "z": 0.288983,
+      "std": 0.07979
+    },
+    {
+      "index": 3,
+      "name": "thumb_ip",
+      "x": -0.253638,
+      "y": -0.189612,
+      "z": -0.082462,
+      "std": 0.083711
+    },
+    {
+      "index": 4,
+      "name": "thumb_tip",
+      "x": -0.389311,
+      "y": 0.01108,
+      "z": 0.069537,
+      "std": 0.074824
+    },
+    {
+      "index": 5,
+      "name": "index_mcp",
+      "x": -0.332092,
+      "y": -0.010561,
+      "z": 0.468525,
+      "std": 0.08004
+    },
+    {
+      "index": 6,
+      "name": "index_pip",
+      "x": -0.489401,
+      "y": -0.372672,
+      "z": 0.171916,
+      "std": 0.085255
+    },
+    {
+      "index": 7,
+      "name": "index_dip",
+      "x": 0.024022,
+      "y": -0.523846,
+      "z": -0.361115,
+      "std": 0.10025
+    },
+    {
+      "index": 8,
+      "name": "index_tip",
+      "x": -0.423589,
+      "y": -0.196924,
+      "z": 0.143974,
+      "std": 0.079811
+    },
+    {
+      "index": 9,
+      "name": "middle_mcp",
+      "x": -0.455524,
+      "y": 0.150113,
+      "z": 0.168128,
+      "std": 0.080377
+    },
+    {
+      "index": 10,
+      "name": "middle_pip",
+      "x": -0.191893,
+      "y": -0.686936,
+      "z": 0.065238,
+      "std": 0.089412
+    },
+    {
+      "index": 11,
+      "name": "middle_dip",
+      "x": -0.590877,
+      "y": -0.647179,
+      "z": 0.207657,
+      "std": 0.083725
+    },
+    {
+      "index": 12,
+      "name": "middle_tip",
+      "x": -0.420663,
+      "y": -0.208169,
+      "z": 0.153509,
+      "std": 0.082395
+    },
+    {
+      "index": 13,
+      "name": "ring_mcp",
+      "x": -0.367938,
+      "y": 0.145057,
+      "z": 0.334845,
+      "std": 0.080868
+    },
+    {
+      "index": 14,
+      "name": "ring_pip",
+      "x": -0.315031,
+      "y": 0.46793,
+      "z": 0.022038,
+      "std": 0.083363
+    },
+    {
+      "index": 15,
+      "name": "ring_dip",
+      "x": -0.720077,
+      "y": 0.193229,
+      "z": 0.64025,
+      "std": 0.068859
+    },
+    {
+      "index": 16,
+      "name": "ring_tip",
+      "x": -0.543222,
+      "y": 0.236627,
+      "z": 0.05663,
+      "std": 0.080889
+    },
+    {
+      "index": 17,
+      "name": "pinky_mcp",
+      "x": -0.243316,
+      "y": 0.051556,
+      "z": 0.035417,
+      "std": 0.08068
+    },
+    {
+      "index": 18,
+      "name": "pinky_pip",
+      "x": 0.049654,
+      "y": 0.375204,
+      "z": -0.062847,
+      "std": 0.08082
+    },
+    {
+      "index": 19,
+      "name": "pinky_dip",
+      "x": -0.339865,
+      "y": 0.121213,
+      "z": -0.266651,
+      "std": 0.082436
+    },
+    {
+      "index": 20,
+      "name": "pinky_tip",
+      "x": -0.389728,
+      "y": -0.494055,
+      "z": 0.351354,
+      "std": 0.08525
+    }
+  ],
+  "finger_states": {
+    "thumb_extended": false,
+    "index_extended": false,
+    "middle_extended": false,
+    "ring_extended": false,
+    "pinky_extended": true
+  },
+  "metadata": {
+    "source_folder": "WATER",
+    "landmark_count": 21,
+    "normalization": "wrist_centered_max_distance_scaled"
+  }
+}

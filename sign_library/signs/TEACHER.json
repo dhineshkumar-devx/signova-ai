@@ -1,0 +1,191 @@
+{
+  "sign_name": "TEACHER",
+  "type": "static_pose",
+  "version": "1.0",
+  "category": "Education",
+  "hand_type": "right",
+  "description": "Both hands near temples moving forward",
+  "sample_count": 150,
+  "normalized_landmarks": [
+    {
+      "index": 0,
+      "name": "wrist",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "std": 0.0
+    },
+    {
+      "index": 1,
+      "name": "thumb_cmc",
+      "x": 0.14681,
+      "y": 0.215679,
+      "z": -0.315393,
+      "std": 0.085979
+    },
+    {
+      "index": 2,
+      "name": "thumb_mcp",
+      "x": 0.294752,
+      "y": -0.665583,
+      "z": -0.625624,
+      "std": 0.076242
+    },
+    {
+      "index": 3,
+      "name": "thumb_ip",
+      "x": -0.223612,
+      "y": 0.321785,
+      "z": -0.533047,
+      "std": 0.089479
+    },
+    {
+      "index": 4,
+      "name": "thumb_tip",
+      "x": 0.160312,
+      "y": -0.315929,
+      "z": -0.536644,
+      "std": 0.088837
+    },
+    {
+      "index": 5,
+      "name": "index_mcp",
+      "x": 0.459795,
+      "y": 0.593428,
+      "z": -0.265076,
+      "std": 0.087489
+    },
+    {
+      "index": 6,
+      "name": "index_pip",
+      "x": -0.204376,
+      "y": 0.559934,
+      "z": -0.261203,
+      "std": 0.094363
+    },
+    {
+      "index": 7,
+      "name": "index_dip",
+      "x": 0.119559,
+      "y": -0.314291,
+      "z": -0.199709,
+      "std": 0.089912
+    },
+    {
+      "index": 8,
+      "name": "index_tip",
+      "x": -0.016398,
+      "y": 0.309894,
+      "z": -0.442416,
+      "std": 0.087914
+    },
+    {
+      "index": 9,
+      "name": "middle_mcp",
+      "x": 0.571318,
+      "y": 0.190844,
+      "z": -0.470649,
+      "std": 0.087536
+    },
+    {
+      "index": 10,
+      "name": "middle_pip",
+      "x": 0.565318,
+      "y": 0.046568,
+      "z": -0.234573,
+      "std": 0.08884
+    },
+    {
+      "index": 11,
+      "name": "middle_dip",
+      "x": 0.094765,
+      "y": -0.044805,
+      "z": -0.463472,
+      "std": 0.08904
+    },
+    {
+      "index": 12,
+      "name": "middle_tip",
+      "x": 0.344315,
+      "y": 0.584872,
+      "z": -0.061935,
+      "std": 0.095744
+    },
+    {
+      "index": 13,
+      "name": "ring_mcp",
+      "x": 0.082138,
+      "y": -0.039446,
+      "z": -0.548838,
+      "std": 0.087767
+    },
+    {
+      "index": 14,
+      "name": "ring_pip",
+      "x": -0.168073,
+      "y": 0.160331,
+      "z": -0.549222,
+      "std": 0.087065
+    },
+    {
+      "index": 15,
+      "name": "ring_dip",
+      "x": 0.339593,
+      "y": -0.367963,
+      "z": -0.647592,
+      "std": 0.085629
+    },
+    {
+      "index": 16,
+      "name": "ring_tip",
+      "x": -0.0443,
+      "y": 0.545743,
+      "z": -0.750057,
+      "std": 0.083403
+    },
+    {
+      "index": 17,
+      "name": "pinky_mcp",
+      "x": 0.218051,
+      "y": 0.191107,
+      "z": -0.17884,
+      "std": 0.08516
+    },
+    {
+      "index": 18,
+      "name": "pinky_pip",
+      "x": 0.303169,
+      "y": 0.267247,
+      "z": -0.610569,
+      "std": 0.08579
+    },
+    {
+      "index": 19,
+      "name": "pinky_dip",
+      "x": -0.351766,
+      "y": 0.295954,
+      "z": -0.315343,
+      "std": 0.088168
+    },
+    {
+      "index": 20,
+      "name": "pinky_tip",
+      "x": -0.271161,
+      "y": -0.097573,
+      "z": -0.38877,
+      "std": 0.085746
+    }
+  ],
+  "finger_states": {
+    "thumb_extended": false,
+    "index_extended": false,
+    "middle_extended": false,
+    "ring_extended": true,
+    "pinky_extended": true
+  },
+  "metadata": {
+    "source_folder": "TEACHER",
+    "landmark_count": 21,
+    "normalization": "wrist_centered_max_distance_scaled"
+  }
+}

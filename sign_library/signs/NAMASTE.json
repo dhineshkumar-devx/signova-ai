@@ -1,0 +1,191 @@
+{
+  "sign_name": "NAMASTE",
+  "type": "static_pose",
+  "version": "1.0",
+  "category": "Greetings",
+  "hand_type": "both",
+  "description": "Traditional Indian greeting with palms pressed together",
+  "sample_count": 150,
+  "normalized_landmarks": [
+    {
+      "index": 0,
+      "name": "wrist",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "std": 0.0
+    },
+    {
+      "index": 1,
+      "name": "thumb_cmc",
+      "x": -0.000635,
+      "y": -0.049218,
+      "z": -0.001125,
+      "std": 0.008437
+    },
+    {
+      "index": 2,
+      "name": "thumb_mcp",
+      "x": -9.4e-05,
+      "y": -0.099183,
+      "z": -0.000205,
+      "std": 0.008387
+    },
+    {
+      "index": 3,
+      "name": "thumb_ip",
+      "x": 0.000245,
+      "y": -0.150211,
+      "z": -0.001168,
+      "std": 0.008203
+    },
+    {
+      "index": 4,
+      "name": "thumb_tip",
+      "x": 0.00042,
+      "y": -0.199588,
+      "z": -0.000322,
+      "std": 0.00827
+    },
+    {
+      "index": 5,
+      "name": "index_mcp",
+      "x": -0.000298,
+      "y": -0.249425,
+      "z": -0.00033,
+      "std": 0.008555
+    },
+    {
+      "index": 6,
+      "name": "index_pip",
+      "x": -0.00114,
+      "y": -0.29953,
+      "z": -1e-06,
+      "std": 0.008634
+    },
+    {
+      "index": 7,
+      "name": "index_dip",
+      "x": -0.000414,
+      "y": -0.350388,
+      "z": -0.001229,
+      "std": 0.008301
+    },
+    {
+      "index": 8,
+      "name": "index_tip",
+      "x": -0.00046,
+      "y": -0.400797,
+      "z": -0.001011,
+      "std": 0.008532
+    },
+    {
+      "index": 9,
+      "name": "middle_mcp",
+      "x": -0.000378,
+      "y": -0.449774,
+      "z": -0.000759,
+      "std": 0.00836
+    },
+    {
+      "index": 10,
+      "name": "middle_pip",
+      "x": -1.6e-05,
+      "y": -0.499987,
+      "z": -0.000145,
+      "std": 0.008008
+    },
+    {
+      "index": 11,
+      "name": "middle_dip",
+      "x": 0.000412,
+      "y": -0.549815,
+      "z": -0.001211,
+      "std": 0.007816
+    },
+    {
+      "index": 12,
+      "name": "middle_tip",
+      "x": -0.000252,
+      "y": -0.599733,
+      "z": -0.000235,
+      "std": 0.008605
+    },
+    {
+      "index": 13,
+      "name": "ring_mcp",
+      "x": -0.00059,
+      "y": -0.650311,
+      "z": -0.000534,
+      "std": 0.008371
+    },
+    {
+      "index": 14,
+      "name": "ring_pip",
+      "x": 0.000732,
+      "y": -0.700225,
+      "z": 0.000324,
+      "std": 0.007898
+    },
+    {
+      "index": 15,
+      "name": "ring_dip",
+      "x": -0.000669,
+      "y": -0.750782,
+      "z": -0.000471,
+      "std": 0.008358
+    },
+    {
+      "index": 16,
+      "name": "ring_tip",
+      "x": -0.000691,
+      "y": -0.801134,
+      "z": -0.000132,
+      "std": 0.008088
+    },
+    {
+      "index": 17,
+      "name": "pinky_mcp",
+      "x": -0.000569,
+      "y": -0.850901,
+      "z": -0.000649,
+      "std": 0.008186
+    },
+    {
+      "index": 18,
+      "name": "pinky_pip",
+      "x": 0.001369,
+      "y": -0.900879,
+      "z": -0.000764,
+      "std": 0.008131
+    },
+    {
+      "index": 19,
+      "name": "pinky_dip",
+      "x": 0.000147,
+      "y": -0.949749,
+      "z": -5.6e-05,
+      "std": 0.008803
+    },
+    {
+      "index": 20,
+      "name": "pinky_tip",
+      "x": -9e-06,
+      "y": -0.999916,
+      "z": 0.000196,
+      "std": 0.006132
+    }
+  ],
+  "finger_states": {
+    "thumb_extended": true,
+    "index_extended": true,
+    "middle_extended": false,
+    "ring_extended": false,
+    "pinky_extended": false
+  },
+  "metadata": {
+    "source_folder": "NAMASTE",
+    "landmark_count": 21,
+    "normalization": "wrist_centered_max_distance_scaled"
+  }
+}

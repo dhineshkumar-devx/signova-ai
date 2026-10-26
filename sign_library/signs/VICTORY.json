@@ -1,0 +1,191 @@
+{
+  "sign_name": "VICTORY",
+  "type": "static_pose",
+  "version": "1.0",
+  "category": "Celebration",
+  "hand_type": "right",
+  "description": "Dual or single V-signs raised in victory",
+  "sample_count": 150,
+  "normalized_landmarks": [
+    {
+      "index": 0,
+      "name": "wrist",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "std": 0.0
+    },
+    {
+      "index": 1,
+      "name": "thumb_cmc",
+      "x": -0.671863,
+      "y": 0.55501,
+      "z": -0.216862,
+      "std": 0.064796
+    },
+    {
+      "index": 2,
+      "name": "thumb_mcp",
+      "x": -0.233093,
+      "y": 0.561468,
+      "z": -0.078424,
+      "std": 0.064735
+    },
+    {
+      "index": 3,
+      "name": "thumb_ip",
+      "x": -0.4161,
+      "y": 0.505672,
+      "z": 0.084488,
+      "std": 0.062284
+    },
+    {
+      "index": 4,
+      "name": "thumb_tip",
+      "x": -0.276704,
+      "y": 0.631254,
+      "z": -0.38088,
+      "std": 0.062941
+    },
+    {
+      "index": 5,
+      "name": "index_mcp",
+      "x": -0.320633,
+      "y": 0.383967,
+      "z": 0.048235,
+      "std": 0.066166
+    },
+    {
+      "index": 6,
+      "name": "index_pip",
+      "x": -0.229114,
+      "y": 0.362319,
+      "z": -0.077858,
+      "std": 0.064894
+    },
+    {
+      "index": 7,
+      "name": "index_dip",
+      "x": -0.353951,
+      "y": 0.544239,
+      "z": -0.02571,
+      "std": 0.066249
+    },
+    {
+      "index": 8,
+      "name": "index_tip",
+      "x": -0.316018,
+      "y": 0.205969,
+      "z": 0.191686,
+      "std": 0.065145
+    },
+    {
+      "index": 9,
+      "name": "middle_mcp",
+      "x": -0.116483,
+      "y": 0.495911,
+      "z": -0.001206,
+      "std": 0.064027
+    },
+    {
+      "index": 10,
+      "name": "middle_pip",
+      "x": -0.210478,
+      "y": 0.334975,
+      "z": 0.150537,
+      "std": 0.063465
+    },
+    {
+      "index": 11,
+      "name": "middle_dip",
+      "x": -0.740075,
+      "y": 0.130893,
+      "z": -0.237793,
+      "std": 0.066887
+    },
+    {
+      "index": 12,
+      "name": "middle_tip",
+      "x": -0.267921,
+      "y": 0.500163,
+      "z": -0.083908,
+      "std": 0.0643
+    },
+    {
+      "index": 13,
+      "name": "ring_mcp",
+      "x": -0.350131,
+      "y": 0.414874,
+      "z": -0.352132,
+      "std": 0.066301
+    },
+    {
+      "index": 14,
+      "name": "ring_pip",
+      "x": -0.607708,
+      "y": 0.224407,
+      "z": -0.31839,
+      "std": 0.068131
+    },
+    {
+      "index": 15,
+      "name": "ring_dip",
+      "x": -0.618008,
+      "y": 0.183875,
+      "z": -0.155144,
+      "std": 0.066568
+    },
+    {
+      "index": 16,
+      "name": "ring_tip",
+      "x": -0.114439,
+      "y": 0.560331,
+      "z": -0.287718,
+      "std": 0.065251
+    },
+    {
+      "index": 17,
+      "name": "pinky_mcp",
+      "x": -0.471946,
+      "y": 0.84955,
+      "z": -0.205169,
+      "std": 0.051559
+    },
+    {
+      "index": 18,
+      "name": "pinky_pip",
+      "x": -0.546075,
+      "y": 0.411361,
+      "z": -0.216501,
+      "std": 0.065861
+    },
+    {
+      "index": 19,
+      "name": "pinky_dip",
+      "x": -0.506039,
+      "y": 0.485383,
+      "z": 0.148236,
+      "std": 0.063518
+    },
+    {
+      "index": 20,
+      "name": "pinky_tip",
+      "x": -0.590979,
+      "y": 0.547836,
+      "z": 0.098551,
+      "std": 0.065521
+    }
+  ],
+  "finger_states": {
+    "thumb_extended": true,
+    "index_extended": false,
+    "middle_extended": false,
+    "ring_extended": false,
+    "pinky_extended": false
+  },
+  "metadata": {
+    "source_folder": "VICTORY",
+    "landmark_count": 21,
+    "normalization": "wrist_centered_max_distance_scaled"
+  }
+}

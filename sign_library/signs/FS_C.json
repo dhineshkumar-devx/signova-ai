@@ -1,0 +1,187 @@
+{
+  "sign_name": "FS_C",
+  "type": "fingerspelling",
+  "letter": "C",
+  "version": "1.0",
+  "category": "Fingerspelling",
+  "hand_type": "right",
+  "description": "ISL Manual Alphabet Letter C",
+  "sample_count": 1,
+  "normalized_landmarks": [
+    {
+      "index": 0,
+      "name": "wrist",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "std": 0.025
+    },
+    {
+      "index": 1,
+      "name": "thumb_cmc",
+      "x": 0.315923,
+      "y": -0.197452,
+      "z": -0.078981,
+      "std": 0.025
+    },
+    {
+      "index": 2,
+      "name": "thumb_mcp",
+      "x": 0.473885,
+      "y": -0.355414,
+      "z": -0.118471,
+      "std": 0.025
+    },
+    {
+      "index": 3,
+      "name": "thumb_ip",
+      "x": 0.544968,
+      "y": -0.497579,
+      "z": -0.086879,
+      "std": 0.025
+    },
+    {
+      "index": 4,
+      "name": "thumb_tip",
+      "x": 0.57656,
+      "y": -0.616051,
+      "z": -0.03949,
+      "std": 0.025
+    },
+    {
+      "index": 5,
+      "name": "index_mcp",
+      "x": 0.197452,
+      "y": -0.671337,
+      "z": -0.03949,
+      "std": 0.025
+    },
+    {
+      "index": 6,
+      "name": "index_pip",
+      "x": 0.209299,
+      "y": -0.804025,
+      "z": -0.115312,
+      "std": 0.025
+    },
+    {
+      "index": 7,
+      "name": "index_dip",
+      "x": 0.232994,
+      "y": -0.905121,
+      "z": -0.203771,
+      "std": 0.025
+    },
+    {
+      "index": 8,
+      "name": "index_tip",
+      "x": 0.264586,
+      "y": -0.905121,
+      "z": -0.304866,
+      "std": 0.025
+    },
+    {
+      "index": 9,
+      "name": "middle_mcp",
+      "x": 0.019745,
+      "y": -0.710828,
+      "z": 0.0,
+      "std": 0.025
+    },
+    {
+      "index": 10,
+      "name": "middle_pip",
+      "x": 0.019745,
+      "y": -0.851809,
+      "z": -0.08056,
+      "std": 0.025
+    },
+    {
+      "index": 11,
+      "name": "middle_dip",
+      "x": 0.019745,
+      "y": -0.959222,
+      "z": -0.174548,
+      "std": 0.025
+    },
+    {
+      "index": 12,
+      "name": "middle_tip",
+      "x": 0.019745,
+      "y": -0.959222,
+      "z": -0.281962,
+      "std": 0.025
+    },
+    {
+      "index": 13,
+      "name": "ring_mcp",
+      "x": -0.157962,
+      "y": -0.671337,
+      "z": 0.03949,
+      "std": 0.025
+    },
+    {
+      "index": 14,
+      "name": "ring_pip",
+      "x": -0.169809,
+      "y": -0.804025,
+      "z": -0.036331,
+      "std": 0.025
+    },
+    {
+      "index": 15,
+      "name": "ring_dip",
+      "x": -0.193503,
+      "y": -0.905121,
+      "z": -0.12479,
+      "std": 0.025
+    },
+    {
+      "index": 16,
+      "name": "ring_tip",
+      "x": -0.225095,
+      "y": -0.905121,
+      "z": -0.225885,
+      "std": 0.025
+    },
+    {
+      "index": 17,
+      "name": "pinky_mcp",
+      "x": -0.315923,
+      "y": -0.592356,
+      "z": 0.059236,
+      "std": 0.025
+    },
+    {
+      "index": 18,
+      "name": "pinky_pip",
+      "x": -0.339618,
+      "y": -0.708458,
+      "z": -0.007108,
+      "std": 0.025
+    },
+    {
+      "index": 19,
+      "name": "pinky_dip",
+      "x": -0.387006,
+      "y": -0.796917,
+      "z": -0.08451,
+      "std": 0.025
+    },
+    {
+      "index": 20,
+      "name": "pinky_tip",
+      "x": -0.450191,
+      "y": -0.796917,
+      "z": -0.172968,
+      "std": 0.025
+    }
+  ],
+  "finger_extensions": {
+    "thumb": false,
+    "index": false,
+    "middle": true,
+    "ring": true,
+    "pinky": true
+  }
+}

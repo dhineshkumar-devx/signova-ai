@@ -1,0 +1,25 @@
+dataset:
+  name: "ISL-Keypoint-Benchmark"
+  num_classes: 100
+  sequence_length: 30
+  num_keypoints: 75
+  channels: 3  # x, y, z
+  keypoint_indices:
+    pose: [0, 11, 12, 13, 14, 15, 16] # Key upper body landmarks
+    left_hand: 21
+    right_hand: 21
+
+preprocessing:
+  normalize_center: true
+  scale_by_shoulder_distance: true
+  interpolate_missing_hand_landmarks: true
+
+augmentation:
+  random_rotation_deg: 15.0
+  random_shear: 0.1
+  joint_jitter_std: 0.01
+
+data_splits:
+  train_ratio: 0.8
+  val_ratio: 0.1
+  test_ratio: 0.1

@@ -1,0 +1,191 @@
+{
+  "sign_name": "SAD",
+  "type": "static_pose",
+  "version": "1.0",
+  "category": "Emotions",
+  "hand_type": "right",
+  "description": "Open hand wiping downward in front of face",
+  "sample_count": 150,
+  "normalized_landmarks": [
+    {
+      "index": 0,
+      "name": "wrist",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "std": 0.0
+    },
+    {
+      "index": 1,
+      "name": "thumb_cmc",
+      "x": -0.48767,
+      "y": -0.508106,
+      "z": -0.06464,
+      "std": 0.097691
+    },
+    {
+      "index": 2,
+      "name": "thumb_mcp",
+      "x": -0.191926,
+      "y": -0.131996,
+      "z": -0.098124,
+      "std": 0.096876
+    },
+    {
+      "index": 3,
+      "name": "thumb_ip",
+      "x": 0.078885,
+      "y": 0.264938,
+      "z": -0.308384,
+      "std": 0.09805
+    },
+    {
+      "index": 4,
+      "name": "thumb_tip",
+      "x": -0.332187,
+      "y": 0.063212,
+      "z": 0.305442,
+      "std": 0.097623
+    },
+    {
+      "index": 5,
+      "name": "index_mcp",
+      "x": -0.144351,
+      "y": 0.057739,
+      "z": -0.421323,
+      "std": 0.093794
+    },
+    {
+      "index": 6,
+      "name": "index_pip",
+      "x": -0.697814,
+      "y": 0.671,
+      "z": 0.031981,
+      "std": 0.082142
+    },
+    {
+      "index": 7,
+      "name": "index_dip",
+      "x": -0.371009,
+      "y": -0.583978,
+      "z": 0.369473,
+      "std": 0.098627
+    },
+    {
+      "index": 8,
+      "name": "index_tip",
+      "x": -0.35717,
+      "y": -0.254818,
+      "z": -0.242456,
+      "std": 0.093652
+    },
+    {
+      "index": 9,
+      "name": "middle_mcp",
+      "x": -0.051937,
+      "y": 0.19579,
+      "z": -0.129026,
+      "std": 0.098476
+    },
+    {
+      "index": 10,
+      "name": "middle_pip",
+      "x": -0.386312,
+      "y": 0.665678,
+      "z": -0.173902,
+      "std": 0.095924
+    },
+    {
+      "index": 11,
+      "name": "middle_dip",
+      "x": -0.091772,
+      "y": -0.40069,
+      "z": 0.118827,
+      "std": 0.095775
+    },
+    {
+      "index": 12,
+      "name": "middle_tip",
+      "x": 0.227752,
+      "y": -0.228485,
+      "z": -0.547927,
+      "std": 0.098847
+    },
+    {
+      "index": 13,
+      "name": "ring_mcp",
+      "x": -0.178587,
+      "y": 0.551453,
+      "z": -0.221627,
+      "std": 0.095962
+    },
+    {
+      "index": 14,
+      "name": "ring_pip",
+      "x": 0.633441,
+      "y": -0.135902,
+      "z": -0.549102,
+      "std": 0.101195
+    },
+    {
+      "index": 15,
+      "name": "ring_dip",
+      "x": -0.224678,
+      "y": -0.499572,
+      "z": -0.248923,
+      "std": 0.101658
+    },
+    {
+      "index": 16,
+      "name": "ring_tip",
+      "x": 0.021389,
+      "y": -0.108585,
+      "z": 0.268164,
+      "std": 0.090947
+    },
+    {
+      "index": 17,
+      "name": "pinky_mcp",
+      "x": -0.238684,
+      "y": -0.395322,
+      "z": -0.002663,
+      "std": 0.096829
+    },
+    {
+      "index": 18,
+      "name": "pinky_pip",
+      "x": -0.125709,
+      "y": 0.008899,
+      "z": -0.406381,
+      "std": 0.097337
+    },
+    {
+      "index": 19,
+      "name": "pinky_dip",
+      "x": -0.004516,
+      "y": 0.418908,
+      "z": -0.403547,
+      "std": 0.092548
+    },
+    {
+      "index": 20,
+      "name": "pinky_tip",
+      "x": -0.619629,
+      "y": -0.411314,
+      "z": -0.047736,
+      "std": 0.097502
+    }
+  ],
+  "finger_states": {
+    "thumb_extended": true,
+    "index_extended": false,
+    "middle_extended": true,
+    "ring_extended": false,
+    "pinky_extended": true
+  },
+  "metadata": {
+    "source_folder": "SAD",
+    "landmark_count": 21,
+    "normalization": "wrist_centered_max_distance_scaled"
+  }
+}

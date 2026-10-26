@@ -1,0 +1,191 @@
+{
+  "sign_name": "PEACE",
+  "type": "static_pose",
+  "version": "1.0",
+  "category": "General",
+  "hand_type": "right",
+  "description": "V-sign gesture with index and middle extended",
+  "sample_count": 150,
+  "normalized_landmarks": [
+    {
+      "index": 0,
+      "name": "wrist",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "std": 0.0
+    },
+    {
+      "index": 1,
+      "name": "thumb_cmc",
+      "x": -0.001421,
+      "y": 0.01246,
+      "z": -0.00261,
+      "std": 0.107365
+    },
+    {
+      "index": 2,
+      "name": "thumb_mcp",
+      "x": -0.012371,
+      "y": 0.015928,
+      "z": 0.011682,
+      "std": 0.110037
+    },
+    {
+      "index": 3,
+      "name": "thumb_ip",
+      "x": -0.004322,
+      "y": 0.005207,
+      "z": 0.007356,
+      "std": 0.103804
+    },
+    {
+      "index": 4,
+      "name": "thumb_tip",
+      "x": -0.004248,
+      "y": 0.010706,
+      "z": 0.001937,
+      "std": 0.105253
+    },
+    {
+      "index": 5,
+      "name": "index_mcp",
+      "x": -0.014054,
+      "y": -0.868749,
+      "z": 0.000655,
+      "std": 0.100853
+    },
+    {
+      "index": 6,
+      "name": "index_pip",
+      "x": -0.009976,
+      "y": -0.887493,
+      "z": -0.003641,
+      "std": 0.098706
+    },
+    {
+      "index": 7,
+      "name": "index_dip",
+      "x": 0.001131,
+      "y": -0.888093,
+      "z": 0.014989,
+      "std": 0.095783
+    },
+    {
+      "index": 8,
+      "name": "index_tip",
+      "x": -0.010275,
+      "y": -0.877961,
+      "z": 0.002545,
+      "std": 0.097243
+    },
+    {
+      "index": 9,
+      "name": "middle_mcp",
+      "x": -0.000469,
+      "y": -0.874452,
+      "z": -0.0017,
+      "std": 0.097829
+    },
+    {
+      "index": 10,
+      "name": "middle_pip",
+      "x": -0.010987,
+      "y": -0.878786,
+      "z": 0.012282,
+      "std": 0.096431
+    },
+    {
+      "index": 11,
+      "name": "middle_dip",
+      "x": -0.018441,
+      "y": -0.883907,
+      "z": 0.017602,
+      "std": 0.097184
+    },
+    {
+      "index": 12,
+      "name": "middle_tip",
+      "x": -0.013275,
+      "y": -0.877687,
+      "z": 0.009172,
+      "std": 0.099877
+    },
+    {
+      "index": 13,
+      "name": "ring_mcp",
+      "x": -0.01345,
+      "y": 0.013402,
+      "z": 0.017556,
+      "std": 0.11219
+    },
+    {
+      "index": 14,
+      "name": "ring_pip",
+      "x": -0.014107,
+      "y": 0.020689,
+      "z": 0.010458,
+      "std": 0.106453
+    },
+    {
+      "index": 15,
+      "name": "ring_dip",
+      "x": -0.018348,
+      "y": 0.009705,
+      "z": 0.005309,
+      "std": 0.107806
+    },
+    {
+      "index": 16,
+      "name": "ring_tip",
+      "x": -0.000264,
+      "y": 0.007031,
+      "z": 0.00423,
+      "std": 0.111021
+    },
+    {
+      "index": 17,
+      "name": "pinky_mcp",
+      "x": -0.01637,
+      "y": 0.0101,
+      "z": 0.000283,
+      "std": 0.110988
+    },
+    {
+      "index": 18,
+      "name": "pinky_pip",
+      "x": -0.01019,
+      "y": 0.001007,
+      "z": 0.003795,
+      "std": 0.10952
+    },
+    {
+      "index": 19,
+      "name": "pinky_dip",
+      "x": -0.015747,
+      "y": 0.020617,
+      "z": 0.00224,
+      "std": 0.106197
+    },
+    {
+      "index": 20,
+      "name": "pinky_tip",
+      "x": -0.008776,
+      "y": 0.004881,
+      "z": 0.009452,
+      "std": 0.109269
+    }
+  ],
+  "finger_states": {
+    "thumb_extended": false,
+    "index_extended": false,
+    "middle_extended": false,
+    "ring_extended": false,
+    "pinky_extended": false
+  },
+  "metadata": {
+    "source_folder": "PEACE",
+    "landmark_count": 21,
+    "normalization": "wrist_centered_max_distance_scaled"
+  }
+}

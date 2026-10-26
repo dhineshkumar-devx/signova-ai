@@ -1,0 +1,191 @@
+{
+  "sign_name": "FOOD",
+  "type": "static_pose",
+  "version": "1.0",
+  "category": "Essentials",
+  "hand_type": "right",
+  "description": "Fingertips gathered touching lips/mouth",
+  "sample_count": 150,
+  "normalized_landmarks": [
+    {
+      "index": 0,
+      "name": "wrist",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "std": 0.0
+    },
+    {
+      "index": 1,
+      "name": "thumb_cmc",
+      "x": 0.247645,
+      "y": 0.31668,
+      "z": -0.321326,
+      "std": 0.121066
+    },
+    {
+      "index": 2,
+      "name": "thumb_mcp",
+      "x": -0.281345,
+      "y": -0.244408,
+      "z": -0.246189,
+      "std": 0.112878
+    },
+    {
+      "index": 3,
+      "name": "thumb_ip",
+      "x": 0.338379,
+      "y": -0.614974,
+      "z": 0.137006,
+      "std": 0.110333
+    },
+    {
+      "index": 4,
+      "name": "thumb_tip",
+      "x": 0.424238,
+      "y": -0.309333,
+      "z": 0.456644,
+      "std": 0.115907
+    },
+    {
+      "index": 5,
+      "name": "index_mcp",
+      "x": 0.336502,
+      "y": -0.245204,
+      "z": 0.233785,
+      "std": 0.107731
+    },
+    {
+      "index": 6,
+      "name": "index_pip",
+      "x": -0.32061,
+      "y": -0.487965,
+      "z": -0.201784,
+      "std": 0.110255
+    },
+    {
+      "index": 7,
+      "name": "index_dip",
+      "x": 0.414236,
+      "y": -0.270727,
+      "z": -0.015181,
+      "std": 0.118225
+    },
+    {
+      "index": 8,
+      "name": "index_tip",
+      "x": -0.377643,
+      "y": 0.170755,
+      "z": 0.241827,
+      "std": 0.11093
+    },
+    {
+      "index": 9,
+      "name": "middle_mcp",
+      "x": -0.280374,
+      "y": -0.887084,
+      "z": -0.159776,
+      "std": 0.100633
+    },
+    {
+      "index": 10,
+      "name": "middle_pip",
+      "x": 0.112197,
+      "y": -0.11735,
+      "z": -0.011155,
+      "std": 0.110196
+    },
+    {
+      "index": 11,
+      "name": "middle_dip",
+      "x": 0.080423,
+      "y": -0.296557,
+      "z": -0.465681,
+      "std": 0.111871
+    },
+    {
+      "index": 12,
+      "name": "middle_tip",
+      "x": 0.212705,
+      "y": -0.414814,
+      "z": -0.447236,
+      "std": 0.114281
+    },
+    {
+      "index": 13,
+      "name": "ring_mcp",
+      "x": 0.117055,
+      "y": -0.50032,
+      "z": -0.309893,
+      "std": 0.109083
+    },
+    {
+      "index": 14,
+      "name": "ring_pip",
+      "x": 0.481956,
+      "y": 0.409951,
+      "z": 0.364594,
+      "std": 0.126451
+    },
+    {
+      "index": 15,
+      "name": "ring_dip",
+      "x": 0.211377,
+      "y": 0.2697,
+      "z": 0.624976,
+      "std": 0.125729
+    },
+    {
+      "index": 16,
+      "name": "ring_tip",
+      "x": 0.321097,
+      "y": -0.033954,
+      "z": 0.243528,
+      "std": 0.116626
+    },
+    {
+      "index": 17,
+      "name": "pinky_mcp",
+      "x": -0.195474,
+      "y": -0.077036,
+      "z": 0.018125,
+      "std": 0.107436
+    },
+    {
+      "index": 18,
+      "name": "pinky_pip",
+      "x": -0.091768,
+      "y": -0.224928,
+      "z": 0.397766,
+      "std": 0.113841
+    },
+    {
+      "index": 19,
+      "name": "pinky_dip",
+      "x": -0.370003,
+      "y": -0.071782,
+      "z": -0.471413,
+      "std": 0.114268
+    },
+    {
+      "index": 20,
+      "name": "pinky_tip",
+      "x": -0.725815,
+      "y": 0.279359,
+      "z": 0.392062,
+      "std": 0.11207
+    }
+  ],
+  "finger_states": {
+    "thumb_extended": true,
+    "index_extended": false,
+    "middle_extended": false,
+    "ring_extended": false,
+    "pinky_extended": true
+  },
+  "metadata": {
+    "source_folder": "FOOD",
+    "landmark_count": 21,
+    "normalization": "wrist_centered_max_distance_scaled"
+  }
+}

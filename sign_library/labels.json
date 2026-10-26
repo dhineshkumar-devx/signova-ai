@@ -1,0 +1,196 @@
+{
+  "classes": [
+    {
+      "id": 1,
+      "sign_name": "FAMILY",
+      "category": "Relationships",
+      "hand_type": "right",
+      "description": "Curved fingers joining in circle",
+      "dataset_folder": "FAMILY"
+    },
+    {
+      "id": 2,
+      "sign_name": "FOOD",
+      "category": "Essentials",
+      "hand_type": "right",
+      "description": "Fingertips gathered touching lips/mouth",
+      "dataset_folder": "FOOD"
+    },
+    {
+      "id": 3,
+      "sign_name": "FRIEND",
+      "category": "Relationships",
+      "hand_type": "right",
+      "description": "Hooked index fingers gesture",
+      "dataset_folder": "FRIEND"
+    },
+    {
+      "id": 4,
+      "sign_name": "GOOD",
+      "category": "Approval",
+      "hand_type": "right",
+      "description": "Thumbs-up approval gesture",
+      "dataset_folder": "GOOD"
+    },
+    {
+      "id": 5,
+      "sign_name": "HAPPY",
+      "category": "Emotions",
+      "hand_type": "right",
+      "description": "Open palms patting chest upwards",
+      "dataset_folder": "HAPPY"
+    },
+    {
+      "id": 6,
+      "sign_name": "HELLO",
+      "category": "Greetings",
+      "hand_type": "right",
+      "description": "Open palm greeting sweep near forehead",
+      "dataset_folder": "HELLO"
+    },
+    {
+      "id": 7,
+      "sign_name": "HELP",
+      "category": "Emergency",
+      "hand_type": "right",
+      "description": "Fist on supportive flat open palm",
+      "dataset_folder": "HELP"
+    },
+    {
+      "id": 8,
+      "sign_name": "HOME",
+      "category": "Places",
+      "hand_type": "right",
+      "description": "Fingertips forming A-frame roof shape",
+      "dataset_folder": "HOME"
+    },
+    {
+      "id": 9,
+      "sign_name": "LOVE",
+      "category": "Emotions",
+      "hand_type": "right",
+      "description": "Thumb, index, and pinky extended",
+      "dataset_folder": "LOVE"
+    },
+    {
+      "id": 10,
+      "sign_name": "NAMASTE",
+      "category": "Greetings",
+      "hand_type": "both",
+      "description": "Traditional Indian greeting with palms pressed together",
+      "dataset_folder": "NAMASTE"
+    },
+    {
+      "id": 11,
+      "sign_name": "NO",
+      "category": "Negation",
+      "hand_type": "right",
+      "description": "Index and middle tap to thumb",
+      "dataset_folder": "NO"
+    },
+    {
+      "id": 12,
+      "sign_name": "OK",
+      "category": "Approval",
+      "hand_type": "right",
+      "description": "O-circle with thumb and index, other fingers extended",
+      "dataset_folder": "OK"
+    },
+    {
+      "id": 13,
+      "sign_name": "PEACE",
+      "category": "General",
+      "hand_type": "right",
+      "description": "V-sign gesture with index and middle extended",
+      "dataset_folder": "PEACE"
+    },
+    {
+      "id": 14,
+      "sign_name": "PLEASE",
+      "category": "Polite",
+      "hand_type": "right",
+      "description": "Circular open palm chest rub gesture",
+      "dataset_folder": "PLEASE"
+    },
+    {
+      "id": 15,
+      "sign_name": "SAD",
+      "category": "Emotions",
+      "hand_type": "right",
+      "description": "Open hand wiping downward in front of face",
+      "dataset_folder": "SAD"
+    },
+    {
+      "id": 16,
+      "sign_name": "SORRY",
+      "category": "Polite",
+      "hand_type": "right",
+      "description": "Closed fist rubbing chest in circular motion",
+      "dataset_folder": "SORRY"
+    },
+    {
+      "id": 17,
+      "sign_name": "STOP",
+      "category": "Commands",
+      "hand_type": "right",
+      "description": "Flat open palm raised forward toward camera",
+      "dataset_folder": "STOP"
+    },
+    {
+      "id": 18,
+      "sign_name": "STUDENT",
+      "category": "Education",
+      "hand_type": "right",
+      "description": "Flat palm taking knowledge toward head",
+      "dataset_folder": "STUDENT"
+    },
+    {
+      "id": 19,
+      "sign_name": "TEACHER",
+      "category": "Education",
+      "hand_type": "right",
+      "description": "Both hands near temples moving forward",
+      "dataset_folder": "TEACHER"
+    },
+    {
+      "id": 20,
+      "sign_name": "THANK_YOU",
+      "category": "Polite",
+      "hand_type": "right",
+      "description": "Hand moved forward from chin to express thanks",
+      "dataset_folder": "THANK_YOU"
+    },
+    {
+      "id": 21,
+      "sign_name": "VICTORY",
+      "category": "Celebration",
+      "hand_type": "right",
+      "description": "Dual or single V-signs raised in victory",
+      "dataset_folder": "VICTORY"
+    },
+    {
+      "id": 22,
+      "sign_name": "WATER",
+      "category": "Essentials",
+      "hand_type": "right",
+      "description": "W-hand shape touching chin/lips",
+      "dataset_folder": "WATER"
+    },
+    {
+      "id": 23,
+      "sign_name": "WELCOME",
+      "category": "Greetings",
+      "hand_type": "right",
+      "description": "Open palm inward sweep welcoming movement",
+      "dataset_folder": "WELCOME"
+    },
+    {
+      "id": 24,
+      "sign_name": "YES",
+      "category": "Affirmation",
+      "hand_type": "right",
+      "description": "Closed fist nodding up and down",
+      "dataset_folder": "YES"
+    }
+  ]
+}

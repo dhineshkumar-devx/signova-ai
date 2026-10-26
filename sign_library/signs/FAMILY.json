@@ -1,0 +1,191 @@
+{
+  "sign_name": "FAMILY",
+  "type": "static_pose",
+  "version": "1.0",
+  "category": "Relationships",
+  "hand_type": "right",
+  "description": "Curved fingers joining in circle",
+  "sample_count": 150,
+  "normalized_landmarks": [
+    {
+      "index": 0,
+      "name": "wrist",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "std": 0.0
+    },
+    {
+      "index": 1,
+      "name": "thumb_cmc",
+      "x": 0.312168,
+      "y": 0.049597,
+      "z": -0.493087,
+      "std": 0.089337
+    },
+    {
+      "index": 2,
+      "name": "thumb_mcp",
+      "x": 0.096224,
+      "y": 0.549432,
+      "z": -0.498274,
+      "std": 0.08509
+    },
+    {
+      "index": 3,
+      "name": "thumb_ip",
+      "x": -0.381306,
+      "y": 0.0617,
+      "z": -0.723995,
+      "std": 0.08514
+    },
+    {
+      "index": 4,
+      "name": "thumb_tip",
+      "x": -0.511977,
+      "y": -0.118955,
+      "z": -0.565724,
+      "std": 0.089379
+    },
+    {
+      "index": 5,
+      "name": "index_mcp",
+      "x": -0.288709,
+      "y": 0.20499,
+      "z": 0.032121,
+      "std": 0.089336
+    },
+    {
+      "index": 6,
+      "name": "index_pip",
+      "x": -0.544216,
+      "y": 0.390547,
+      "z": -0.420579,
+      "std": 0.087768
+    },
+    {
+      "index": 7,
+      "name": "index_dip",
+      "x": -0.293399,
+      "y": 0.30687,
+      "z": -0.668692,
+      "std": 0.08599
+    },
+    {
+      "index": 8,
+      "name": "index_tip",
+      "x": -0.184547,
+      "y": 0.169188,
+      "z": -0.24874,
+      "std": 0.087305
+    },
+    {
+      "index": 9,
+      "name": "middle_mcp",
+      "x": -0.20615,
+      "y": 0.770809,
+      "z": -0.531492,
+      "std": 0.080177
+    },
+    {
+      "index": 10,
+      "name": "middle_pip",
+      "x": -0.4134,
+      "y": -0.021611,
+      "z": -0.507523,
+      "std": 0.083181
+    },
+    {
+      "index": 11,
+      "name": "middle_dip",
+      "x": -0.435474,
+      "y": 0.446629,
+      "z": -0.01138,
+      "std": 0.082003
+    },
+    {
+      "index": 12,
+      "name": "middle_tip",
+      "x": -0.428331,
+      "y": -0.074277,
+      "z": -0.242919,
+      "std": 0.088856
+    },
+    {
+      "index": 13,
+      "name": "ring_mcp",
+      "x": -0.426221,
+      "y": 0.299896,
+      "z": -0.315999,
+      "std": 0.084922
+    },
+    {
+      "index": 14,
+      "name": "ring_pip",
+      "x": -0.660383,
+      "y": 0.530833,
+      "z": 0.10371,
+      "std": 0.085488
+    },
+    {
+      "index": 15,
+      "name": "ring_dip",
+      "x": -0.442644,
+      "y": 0.032238,
+      "z": -0.297831,
+      "std": 0.086127
+    },
+    {
+      "index": 16,
+      "name": "ring_tip",
+      "x": -0.19973,
+      "y": 0.295584,
+      "z": 0.152609,
+      "std": 0.086294
+    },
+    {
+      "index": 17,
+      "name": "pinky_mcp",
+      "x": -0.32471,
+      "y": -0.074203,
+      "z": -0.725866,
+      "std": 0.088946
+    },
+    {
+      "index": 18,
+      "name": "pinky_pip",
+      "x": -0.451109,
+      "y": 0.124603,
+      "z": 0.08964,
+      "std": 0.087598
+    },
+    {
+      "index": 19,
+      "name": "pinky_dip",
+      "x": -0.411341,
+      "y": 0.200964,
+      "z": -0.370289,
+      "std": 0.088266
+    },
+    {
+      "index": 20,
+      "name": "pinky_tip",
+      "x": 0.026994,
+      "y": 0.792512,
+      "z": -0.500571,
+      "std": 0.082468
+    }
+  ],
+  "finger_states": {
+    "thumb_extended": false,
+    "index_extended": false,
+    "middle_extended": false,
+    "ring_extended": false,
+    "pinky_extended": false
+  },
+  "metadata": {
+    "source_folder": "FAMILY",
+    "landmark_count": 21,
+    "normalization": "wrist_centered_max_distance_scaled"
+  }
+}

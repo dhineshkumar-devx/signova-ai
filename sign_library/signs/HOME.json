@@ -1,0 +1,191 @@
+{
+  "sign_name": "HOME",
+  "type": "static_pose",
+  "version": "1.0",
+  "category": "Places",
+  "hand_type": "right",
+  "description": "Fingertips forming A-frame roof shape",
+  "sample_count": 150,
+  "normalized_landmarks": [
+    {
+      "index": 0,
+      "name": "wrist",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "std": 0.0
+    },
+    {
+      "index": 1,
+      "name": "thumb_cmc",
+      "x": -0.563993,
+      "y": 0.252079,
+      "z": 0.049432,
+      "std": 0.076986
+    },
+    {
+      "index": 2,
+      "name": "thumb_mcp",
+      "x": -0.914366,
+      "y": -0.012625,
+      "z": 0.042983,
+      "std": 0.075814
+    },
+    {
+      "index": 3,
+      "name": "thumb_ip",
+      "x": -0.478666,
+      "y": 0.239364,
+      "z": 0.003687,
+      "std": 0.081048
+    },
+    {
+      "index": 4,
+      "name": "thumb_tip",
+      "x": -0.720797,
+      "y": 0.44547,
+      "z": 0.013312,
+      "std": 0.078168
+    },
+    {
+      "index": 5,
+      "name": "index_mcp",
+      "x": -0.453859,
+      "y": 0.296554,
+      "z": 0.10705,
+      "std": 0.076234
+    },
+    {
+      "index": 6,
+      "name": "index_pip",
+      "x": -0.654547,
+      "y": 0.347902,
+      "z": 0.241866,
+      "std": 0.074853
+    },
+    {
+      "index": 7,
+      "name": "index_dip",
+      "x": -0.351412,
+      "y": 0.14298,
+      "z": 0.376361,
+      "std": 0.079129
+    },
+    {
+      "index": 8,
+      "name": "index_tip",
+      "x": -0.458948,
+      "y": 0.525868,
+      "z": -0.272335,
+      "std": 0.080974
+    },
+    {
+      "index": 9,
+      "name": "middle_mcp",
+      "x": -0.248868,
+      "y": 0.06031,
+      "z": -0.098604,
+      "std": 0.077373
+    },
+    {
+      "index": 10,
+      "name": "middle_pip",
+      "x": -0.663427,
+      "y": 0.643519,
+      "z": -0.225589,
+      "std": 0.067084
+    },
+    {
+      "index": 11,
+      "name": "middle_dip",
+      "x": -0.765566,
+      "y": 0.219177,
+      "z": -0.044741,
+      "std": 0.074876
+    },
+    {
+      "index": 12,
+      "name": "middle_tip",
+      "x": -0.51822,
+      "y": -0.00037,
+      "z": 0.062335,
+      "std": 0.077687
+    },
+    {
+      "index": 13,
+      "name": "ring_mcp",
+      "x": -0.213563,
+      "y": -0.195624,
+      "z": -0.386559,
+      "std": 0.076859
+    },
+    {
+      "index": 14,
+      "name": "ring_pip",
+      "x": -0.54727,
+      "y": 0.071673,
+      "z": -0.045405,
+      "std": 0.076115
+    },
+    {
+      "index": 15,
+      "name": "ring_dip",
+      "x": -0.069963,
+      "y": 0.108248,
+      "z": 0.20327,
+      "std": 0.07771
+    },
+    {
+      "index": 16,
+      "name": "ring_tip",
+      "x": -0.852087,
+      "y": 0.300335,
+      "z": -0.318058,
+      "std": 0.065119
+    },
+    {
+      "index": 17,
+      "name": "pinky_mcp",
+      "x": -0.404608,
+      "y": -0.229872,
+      "z": -0.479212,
+      "std": 0.078487
+    },
+    {
+      "index": 18,
+      "name": "pinky_pip",
+      "x": -0.395642,
+      "y": 0.032605,
+      "z": -0.250215,
+      "std": 0.0767
+    },
+    {
+      "index": 19,
+      "name": "pinky_dip",
+      "x": -0.074602,
+      "y": 0.222999,
+      "z": 0.037688,
+      "std": 0.076041
+    },
+    {
+      "index": 20,
+      "name": "pinky_tip",
+      "x": -0.689498,
+      "y": -0.129787,
+      "z": -0.187392,
+      "std": 0.081637
+    }
+  ],
+  "finger_states": {
+    "thumb_extended": false,
+    "index_extended": true,
+    "middle_extended": true,
+    "ring_extended": true,
+    "pinky_extended": false
+  },
+  "metadata": {
+    "source_folder": "HOME",
+    "landmark_count": 21,
+    "normalization": "wrist_centered_max_distance_scaled"
+  }
+}

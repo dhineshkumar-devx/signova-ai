@@ -1,0 +1,411 @@
+{
+  "version": "1.0",
+  "total_signs": 50,
+  "signs": {
+    "FAMILY": {
+      "sign_name": "FAMILY",
+      "category": "Relationships",
+      "hand_type": "right",
+      "description": "Curved fingers joining in circle",
+      "sample_count": 150,
+      "file": "signs/FAMILY.json"
+    },
+    "FOOD": {
+      "sign_name": "FOOD",
+      "category": "Essentials",
+      "hand_type": "right",
+      "description": "Fingertips gathered touching lips/mouth",
+      "sample_count": 150,
+      "file": "signs/FOOD.json"
+    },
+    "FRIEND": {
+      "sign_name": "FRIEND",
+      "category": "Relationships",
+      "hand_type": "right",
+      "description": "Hooked index fingers gesture",
+      "sample_count": 150,
+      "file": "signs/FRIEND.json"
+    },
+    "GOOD": {
+      "sign_name": "GOOD",
+      "category": "Approval",
+      "hand_type": "right",
+      "description": "Thumbs-up approval gesture",
+      "sample_count": 150,
+      "file": "signs/GOOD.json"
+    },
+    "HAPPY": {
+      "sign_name": "HAPPY",
+      "category": "Emotions",
+      "hand_type": "right",
+      "description": "Open palms patting chest upwards",
+      "sample_count": 150,
+      "file": "signs/HAPPY.json"
+    },
+    "HELLO": {
+      "sign_name": "HELLO",
+      "category": "Greetings",
+      "hand_type": "right",
+      "description": "Open palm greeting sweep near forehead",
+      "sample_count": 150,
+      "file": "signs/HELLO.json"
+    },
+    "HELP": {
+      "sign_name": "HELP",
+      "category": "Emergency",
+      "hand_type": "right",
+      "description": "Fist on supportive flat open palm",
+      "sample_count": 150,
+      "file": "signs/HELP.json"
+    },
+    "HOME": {
+      "sign_name": "HOME",
+      "category": "Places",
+      "hand_type": "right",
+      "description": "Fingertips forming A-frame roof shape",
+      "sample_count": 150,
+      "file": "signs/HOME.json"
+    },
+    "LOVE": {
+      "sign_name": "LOVE",
+      "category": "Emotions",
+      "hand_type": "right",
+      "description": "Thumb, index, and pinky extended",
+      "sample_count": 150,
+      "file": "signs/LOVE.json"
+    },
+    "NAMASTE": {
+      "sign_name": "NAMASTE",
+      "category": "Greetings",
+      "hand_type": "both",
+      "description": "Traditional Indian greeting with palms pressed together",
+      "sample_count": 150,
+      "file": "signs/NAMASTE.json"
+    },
+    "NO": {
+      "sign_name": "NO",
+      "category": "Negation",
+      "hand_type": "right",
+      "description": "Index and middle tap to thumb",
+      "sample_count": 150,
+      "file": "signs/NO.json"
+    },
+    "OK": {
+      "sign_name": "OK",
+      "category": "Approval",
+      "hand_type": "right",
+      "description": "O-circle with thumb and index, other fingers extended",
+      "sample_count": 150,
+      "file": "signs/OK.json"
+    },
+    "PEACE": {
+      "sign_name": "PEACE",
+      "category": "General",
+      "hand_type": "right",
+      "description": "V-sign gesture with index and middle extended",
+      "sample_count": 150,
+      "file": "signs/PEACE.json"
+    },
+    "PLEASE": {
+      "sign_name": "PLEASE",
+      "category": "Polite",
+      "hand_type": "right",
+      "description": "Circular open palm chest rub gesture",
+      "sample_count": 150,
+      "file": "signs/PLEASE.json"
+    },
+    "SAD": {
+      "sign_name": "SAD",
+      "category": "Emotions",
+      "hand_type": "right",
+      "description": "Open hand wiping downward in front of face",
+      "sample_count": 150,
+      "file": "signs/SAD.json"
+    },
+    "SORRY": {
+      "sign_name": "SORRY",
+      "category": "Polite",
+      "hand_type": "right",
+      "description": "Closed fist rubbing chest in circular motion",
+      "sample_count": 150,
+      "file": "signs/SORRY.json"
+    },
+    "STOP": {
+      "sign_name": "STOP",
+      "category": "Commands",
+      "hand_type": "right",
+      "description": "Flat open palm raised forward toward camera",
+      "sample_count": 150,
+      "file": "signs/STOP.json"
+    },
+    "STUDENT": {
+      "sign_name": "STUDENT",
+      "category": "Education",
+      "hand_type": "right",
+      "description": "Flat palm taking knowledge toward head",
+      "sample_count": 150,
+      "file": "signs/STUDENT.json"
+    },
+    "TEACHER": {
+      "sign_name": "TEACHER",
+      "category": "Education",
+      "hand_type": "right",
+      "description": "Both hands near temples moving forward",
+      "sample_count": 150,
+      "file": "signs/TEACHER.json"
+    },
+    "THANK_YOU": {
+      "sign_name": "THANK_YOU",
+      "category": "Polite",
+      "hand_type": "right",
+      "description": "Hand moved forward from chin to express thanks",
+      "sample_count": 150,
+      "file": "signs/THANK_YOU.json"
+    },
+    "VICTORY": {
+      "sign_name": "VICTORY",
+      "category": "Celebration",
+      "hand_type": "right",
+      "description": "Dual or single V-signs raised in victory",
+      "sample_count": 150,
+      "file": "signs/VICTORY.json"
+    },
+    "WATER": {
+      "sign_name": "WATER",
+      "category": "Essentials",
+      "hand_type": "right",
+      "description": "W-hand shape touching chin/lips",
+      "sample_count": 150,
+      "file": "signs/WATER.json"
+    },
+    "WELCOME": {
+      "sign_name": "WELCOME",
+      "category": "Greetings",
+      "hand_type": "right",
+      "description": "Open palm inward sweep welcoming movement",
+      "sample_count": 150,
+      "file": "signs/WELCOME.json"
+    },
+    "YES": {
+      "sign_name": "YES",
+      "category": "Affirmation",
+      "hand_type": "right",
+      "description": "Closed fist nodding up and down",
+      "sample_count": 150,
+      "file": "signs/YES.json"
+    },
+    "FS_A": {
+      "sign_name": "FS_A",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet A",
+      "sample_count": 1,
+      "file": "signs/FS_A.json"
+    },
+    "FS_B": {
+      "sign_name": "FS_B",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet B",
+      "sample_count": 1,
+      "file": "signs/FS_B.json"
+    },
+    "FS_C": {
+      "sign_name": "FS_C",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet C",
+      "sample_count": 1,
+      "file": "signs/FS_C.json"
+    },
+    "FS_D": {
+      "sign_name": "FS_D",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet D",
+      "sample_count": 1,
+      "file": "signs/FS_D.json"
+    },
+    "FS_E": {
+      "sign_name": "FS_E",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet E",
+      "sample_count": 1,
+      "file": "signs/FS_E.json"
+    },
+    "FS_F": {
+      "sign_name": "FS_F",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet F",
+      "sample_count": 1,
+      "file": "signs/FS_F.json"
+    },
+    "FS_G": {
+      "sign_name": "FS_G",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet G",
+      "sample_count": 1,
+      "file": "signs/FS_G.json"
+    },
+    "FS_H": {
+      "sign_name": "FS_H",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet H",
+      "sample_count": 1,
+      "file": "signs/FS_H.json"
+    },
+    "FS_I": {
+      "sign_name": "FS_I",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet I",
+      "sample_count": 1,
+      "file": "signs/FS_I.json"
+    },
+    "FS_J": {
+      "sign_name": "FS_J",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet J",
+      "sample_count": 1,
+      "file": "signs/FS_J.json"
+    },
+    "FS_K": {
+      "sign_name": "FS_K",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet K",
+      "sample_count": 1,
+      "file": "signs/FS_K.json"
+    },
+    "FS_L": {
+      "sign_name": "FS_L",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet L",
+      "sample_count": 1,
+      "file": "signs/FS_L.json"
+    },
+    "FS_M": {
+      "sign_name": "FS_M",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet M",
+      "sample_count": 1,
+      "file": "signs/FS_M.json"
+    },
+    "FS_N": {
+      "sign_name": "FS_N",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet N",
+      "sample_count": 1,
+      "file": "signs/FS_N.json"
+    },
+    "FS_O": {
+      "sign_name": "FS_O",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet O",
+      "sample_count": 1,
+      "file": "signs/FS_O.json"
+    },
+    "FS_P": {
+      "sign_name": "FS_P",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet P",
+      "sample_count": 1,
+      "file": "signs/FS_P.json"
+    },
+    "FS_Q": {
+      "sign_name": "FS_Q",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet Q",
+      "sample_count": 1,
+      "file": "signs/FS_Q.json"
+    },
+    "FS_R": {
+      "sign_name": "FS_R",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet R",
+      "sample_count": 1,
+      "file": "signs/FS_R.json"
+    },
+    "FS_S": {
+      "sign_name": "FS_S",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet S",
+      "sample_count": 1,
+      "file": "signs/FS_S.json"
+    },
+    "FS_T": {
+      "sign_name": "FS_T",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet T",
+      "sample_count": 1,
+      "file": "signs/FS_T.json"
+    },
+    "FS_U": {
+      "sign_name": "FS_U",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet U",
+      "sample_count": 1,
+      "file": "signs/FS_U.json"
+    },
+    "FS_V": {
+      "sign_name": "FS_V",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet V",
+      "sample_count": 1,
+      "file": "signs/FS_V.json"
+    },
+    "FS_W": {
+      "sign_name": "FS_W",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet W",
+      "sample_count": 1,
+      "file": "signs/FS_W.json"
+    },
+    "FS_X": {
+      "sign_name": "FS_X",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet X",
+      "sample_count": 1,
+      "file": "signs/FS_X.json"
+    },
+    "FS_Y": {
+      "sign_name": "FS_Y",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet Y",
+      "sample_count": 1,
+      "file": "signs/FS_Y.json"
+    },
+    "FS_Z": {
+      "sign_name": "FS_Z",
+      "category": "Fingerspelling",
+      "hand_type": "right",
+      "description": "ISL Manual Alphabet Z",
+      "sample_count": 1,
+      "file": "signs/FS_Z.json"
+    }
+  },
+  "extensible_config": {
+    "supports_static_pose": true,
+    "supports_temporal_sequence": true,
+    "custom_signs_directory": "signs/"
+  }
+}

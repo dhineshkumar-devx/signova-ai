@@ -1,0 +1,47 @@
+# Python & PyTorch
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+*.pt
+*.pth
+*.onnx
+*.engine
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+.npm/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Databases & Media
+*.sqlite3
+*.db
+dataset_raw/
+dataset_processed/
+checkpoints/*
+!checkpoints/isl_classifier.pkl
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+.env

@@ -1,0 +1,191 @@
+{
+  "sign_name": "HAPPY",
+  "type": "static_pose",
+  "version": "1.0",
+  "category": "Emotions",
+  "hand_type": "right",
+  "description": "Open palms patting chest upwards",
+  "sample_count": 150,
+  "normalized_landmarks": [
+    {
+      "index": 0,
+      "name": "wrist",
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "std": 0.0
+    },
+    {
+      "index": 1,
+      "name": "thumb_cmc",
+      "x": 0.103509,
+      "y": -0.246696,
+      "z": -0.300059,
+      "std": 0.077825
+    },
+    {
+      "index": 2,
+      "name": "thumb_mcp",
+      "x": -0.181161,
+      "y": -0.179123,
+      "z": -0.453577,
+      "std": 0.07967
+    },
+    {
+      "index": 3,
+      "name": "thumb_ip",
+      "x": 0.025568,
+      "y": -0.219514,
+      "z": -0.45272,
+      "std": 0.08758
+    },
+    {
+      "index": 4,
+      "name": "thumb_tip",
+      "x": 0.022137,
+      "y": -0.246605,
+      "z": 0.383881,
+      "std": 0.085365
+    },
+    {
+      "index": 5,
+      "name": "index_mcp",
+      "x": 0.036298,
+      "y": -0.040769,
+      "z": -0.003278,
+      "std": 0.082239
+    },
+    {
+      "index": 6,
+      "name": "index_pip",
+      "x": 0.096491,
+      "y": -0.046059,
+      "z": -0.455871,
+      "std": 0.086433
+    },
+    {
+      "index": 7,
+      "name": "index_dip",
+      "x": 0.014628,
+      "y": -0.183816,
+      "z": -0.347638,
+      "std": 0.081244
+    },
+    {
+      "index": 8,
+      "name": "index_tip",
+      "x": 0.018093,
+      "y": -0.217648,
+      "z": -0.164885,
+      "std": 0.077134
+    },
+    {
+      "index": 9,
+      "name": "middle_mcp",
+      "x": -0.172277,
+      "y": -0.422856,
+      "z": -0.194678,
+      "std": 0.083321
+    },
+    {
+      "index": 10,
+      "name": "middle_pip",
+      "x": 0.121893,
+      "y": -0.220082,
+      "z": -0.067838,
+      "std": 0.079725
+    },
+    {
+      "index": 11,
+      "name": "middle_dip",
+      "x": -0.023663,
+      "y": -0.451958,
+      "z": -0.192117,
+      "std": 0.07881
+    },
+    {
+      "index": 12,
+      "name": "middle_tip",
+      "x": -0.164992,
+      "y": -0.972206,
+      "z": -0.117474,
+      "std": 0.060463
+    },
+    {
+      "index": 13,
+      "name": "ring_mcp",
+      "x": -0.028465,
+      "y": 0.053068,
+      "z": 0.062229,
+      "std": 0.083617
+    },
+    {
+      "index": 14,
+      "name": "ring_pip",
+      "x": 0.147833,
+      "y": -0.489505,
+      "z": 0.132955,
+      "std": 0.078824
+    },
+    {
+      "index": 15,
+      "name": "ring_dip",
+      "x": 0.068162,
+      "y": -0.338055,
+      "z": -0.29969,
+      "std": 0.084061
+    },
+    {
+      "index": 16,
+      "name": "ring_tip",
+      "x": -0.117769,
+      "y": -0.316321,
+      "z": -0.371021,
+      "std": 0.078131
+    },
+    {
+      "index": 17,
+      "name": "pinky_mcp",
+      "x": 0.050356,
+      "y": -0.284095,
+      "z": 0.049572,
+      "std": 0.081483
+    },
+    {
+      "index": 18,
+      "name": "pinky_pip",
+      "x": 0.002409,
+      "y": -0.68746,
+      "z": -0.188333,
+      "std": 0.080526
+    },
+    {
+      "index": 19,
+      "name": "pinky_dip",
+      "x": -0.233855,
+      "y": -0.395714,
+      "z": -0.3399,
+      "std": 0.078405
+    },
+    {
+      "index": 20,
+      "name": "pinky_tip",
+      "x": 0.543526,
+      "y": -0.326929,
+      "z": 0.062843,
+      "std": 0.087302
+    }
+  ],
+  "finger_states": {
+    "thumb_extended": false,
+    "index_extended": true,
+    "middle_extended": true,
+    "ring_extended": true,
+    "pinky_extended": true
+  },
+  "metadata": {
+    "source_folder": "HAPPY",
+    "landmark_count": 21,
+    "normalization": "wrist_centered_max_distance_scaled"
+  }
+}
